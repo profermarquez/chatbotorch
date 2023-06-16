@@ -41,7 +41,7 @@ Run this once in your terminal:
  ```console
 $ python
 >>> import nltk
->>> nltk.download('punkt')
+>>> nltk.download('spanish_grammars')
 ```
 
 ## Usage
